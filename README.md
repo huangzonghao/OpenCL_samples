@@ -1,3 +1,4 @@
+Forked from https://github.com/bgaster/opencl-book-samples.git
 ![Logo](logo.jpeg) OpenCL Programming Guide 1.2 Examples
 =======================================================================
 
